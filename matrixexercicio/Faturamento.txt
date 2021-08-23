@@ -1,0 +1,5 @@
+o valor da manicure 1 eh 219 
+o valor da manicure 2 eh 58 
+o valor da manicure 3 eh 58 
+o valor da manicure 4 eh 328 
+o valor da manicure 5 eh 84 
