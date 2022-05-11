@@ -16,7 +16,6 @@ int main()
 
 
 
-
 for(i=0;i<2;i++){
 
 
@@ -76,7 +75,7 @@ else{
 }
 printf("a media de idade de pessoas com altura maior que 1.60 e de olhos castanhos eh %d\n", media);
 printf("o mais velho eh %d\n", velho);
-printf("a quantidade de indivíduos do sexo feminino cuja idade esteja entre 20 e 45 anos (inclusive) ou que tenham olhos verdes e altura inferior a 1,70 m eh %d\n", fem);
+printf("a quantidade de indivÃ­duos do sexo feminino cuja idade esteja entre 20 e 45 anos (inclusive) ou que tenham olhos verdes e altura inferior a 1,70 m eh %d\n", fem);
 printf("a porcentagem de homens eh %f\n", men/total*100);
   return 0;
 
